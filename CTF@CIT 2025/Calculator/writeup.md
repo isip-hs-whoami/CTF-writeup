@@ -1,7 +1,7 @@
 # CTF@CIT - 2025
 ###### Contributed by [@scott987](https://github.com/scott987)
 
-## Calculator - 777 / Categories
+## Calculator - 777 / MISC
 
 > Find the flag.
 >
