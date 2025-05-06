@@ -8,12 +8,9 @@ Contributed by A.Tao
 
 ---
 
-> PVG{LxxdJwAXJGcsDoncKfRctddA}
-> 
-> 
-> Flag Format: CIT{example_flag}
-> 
-> by **ronnie**
+> PVG{LxxdJwAXJGcsDoncKfRctddA}  
+> Flag Format: CIT{example_flag}  
+> by **ronnie**  
 > 
 
 ## Solution
@@ -29,9 +26,9 @@ Contributed by A.Tao
 
 ---
 
-> PFFUQYTUONPSK5LAMNDXGJ35ER4CM5C7ORETY3A=
-Flag Format: CIT{example_flag}
-by ronnie
+> PFFUQYTUONPSK5LAMNDXGJ35ER4CM5C7ORETY3A=  
+> Flag Format: CIT{example_flag}  
+> by ronnie  
 > 
 
 ## Solution
@@ -45,7 +42,7 @@ by ronnie
     print(decoded_b32.decode(errors="ignore"))
     ```
     
-- 因字串””yKHbts_%u`cGs'}$x&t_tI<l”所有字元皆在ASCII[!-~] (即33~126)範圍內，故以ROT47解碼，得”Jzw3ED0TF14vDVNSIUE0Exk=”。
+- 因字串””yKHbts_%u`cGs'}$x&t_tI<l”所有字元皆在ASCII[!-~] (即 33 ~ 126 )範圍內，故以ROT47解碼，得”Jzw3ED0TF14vDVNSIUE0Exk=”。
     
     ```python
     def rot47(text):
