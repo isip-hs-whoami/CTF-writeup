@@ -8,11 +8,8 @@ Contributed by A.Tao
 
 ---
 
-> This packet capture seems convoluted. Is it?
-> 
-> 
+> This packet capture seems convoluted. Is it?  
 > Author: anshc  
-> 
 > [toothless.pcap](toothless.pcap)
 > 
 
@@ -29,11 +26,8 @@ Contributed by A.Tao
 
 ---
 
-> Play hangman and guess the flag
-> 
-> 
+> Play hangman and guess the flag  
 > Author: itsc0rg1  
-> 
 > [https://hangman-one-a7344a19.challenges.bsidessf.net/](https://hangman-one-a7344a19.challenges.bsidessf.net/)
 > 
 
@@ -51,14 +45,14 @@ Contributed by A.Tao
     
     ![2025-04-26_144704.jpg](2025-04-26_144704.jpg)
     
-- 將每回合獲得的CTF{…}字串疊合，如下：
-CTF{h----4----H------5----0--}
-CTF{hang--n---h---en--an--0--}
-CTF{hang-4n---h---en-5an--0--}
-CTF{----m------f----d---df---}
-CTF{hangm4n---hf--end5andf0--}
-CTF{-------w1---r1---------3s}
-CTF{hangm4nw1thfr1end5andf03s}
+- 將每回合獲得的CTF{…}字串疊合，如下：  
+CTF{h----4----H------5----0--}  
+CTF{hang--n---h---en--an--0--}  
+CTF{hang-4n---h---en-5an--0--}  
+CTF{----m------f----d---df---}  
+CTF{hangm4n---hf--end5andf0--}  
+CTF{-------w1---r1---------3s}  
+CTF{hangm4nw1thfr1end5andf03s}  
 - 最終可得flag: CTF{hangm4nw1thfr1end5andf03s}。
 - Done.
 
