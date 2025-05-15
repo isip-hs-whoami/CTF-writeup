@@ -3,7 +3,7 @@
 
 ## Breaking Authentication
 
-> [!NOTE] Challenge Description
+> [!NOTE]Challenge Description
 > 
 > "Say my username."
 > 
@@ -19,7 +19,7 @@
 
 總之不信邪的我試了超級久的 `SQLi` 的攻擊法，沒什麼結論...。
 
-> [!WARNING] 原來是被禁止的...
+> [!WARNING]原來是被禁止的...
 > 
 > 被哲雋提醒，其實若沒有特別說，SQL MAP 或 Dirsearch 這種東西是不可以使用的...
 >
