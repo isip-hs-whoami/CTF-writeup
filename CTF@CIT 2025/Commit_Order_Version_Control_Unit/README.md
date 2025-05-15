@@ -3,7 +3,7 @@
 
 ## Commit & Order: Version Control Unit - 782 / Web
 
-> [!NOTE]
+> [!NOTE] Challenge Description
 >  "In software development, the repository is represented by two separate yet equally important branches..."
 > 
 > **Note**: this web challenge instance will reset every 30 minutes. If a challenge is not responsive, you might need to wait until the next half hour.
