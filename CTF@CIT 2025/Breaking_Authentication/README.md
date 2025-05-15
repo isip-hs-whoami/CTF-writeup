@@ -4,6 +4,7 @@
 ## Breaking Authentication
 
 > [!NOTE] Challenge Description
+> 
 > "Say my username."
 > 
 > **Note**: this challenge instance will reset every 15 minutes. If a challenge is not responsive, you might need to wait until the next quarter hour.
@@ -19,6 +20,7 @@
 總之不信邪的我試了超級久的 `SQLi` 的攻擊法，沒什麼結論...。
 
 > [!WARNING] 原來是被禁止的...
+> 
 > 被哲雋提醒，其實若沒有特別說，SQL MAP 或 Dirsearch 這種東西是不可以使用的...
 >
 > 只好自己勤勞點建一些字典檔和寫一些 exploit 起來使用了 0(:3　)～ ('､3_ヽ)_
@@ -31,13 +33,14 @@
 
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZpQ6wXxbCgz-RIddS5_lY43vIv8yELY2?usp=sharing)
 
-由於是在不開心的狀態下寫，沒有良好的保存意識，因此快速說明我做出的測試：
+由於是在不開心的狀態下寫，因此 code 沒有良好的保存步驟...這邊說明一下我在得到結果之前所做的測試：
 
 1. 利用 UNION-based 測定 column 數量 (為 4)
 2. 利用 LIKE 確認 目標 table (table_name 為 secrets)
 3. 利用 LIKE 確認 `secrets` 有哪些 column (確認為 name, value)
-4. 利用 LIKE 確認 目標的 `name` (為 flag)
-5. 利用 LIKE 測試出 flag `CIT{36B0EFD6C2EC7132}`
+4. 利用 LIKE 確認 目標的 `name` (為 `flag`)
+
+總之，最後使用 `Blind SQLi` 的 `Wildcard Injection` 技巧，利用 LIKE 測試出 Flag `CIT{36B0EFD6C2EC7132}`。
 
 ---
 ### Referenece
