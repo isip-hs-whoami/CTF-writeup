@@ -17,5 +17,9 @@
 
 ## Welcome
 - [Welcome to CTF](https://github.com/gikewen/CTF-writeup/blob/main/CTF%40CIT%202025/Ask_Nicely_Nerd_Emoji/README.md)
-
 - [Discord](https://github.com/gikewen/CTF-writeup/blob/main/CTF%40CIT%202025/Ask_Nicely_Nerd_Emoji/README.md)
+
+## Web
+- [Breaking Authentication](https://github.com/isip-hs-whoami/CTF-writeup/blob/main/CTF%40CIT%202025/Breaking_Authentication/README.md)
+- [Commit & Order: Version Control Unit](https://github.com/isip-hs-whoami/CTF-writeup/blob/main/CTF%40CIT%202025/Commit_Order_Version_Control_Unit/README.md)
+- [How I Parsed your JSON](https://github.com/isip-hs-whoami/CTF-writeup/blob/main/CTF%40CIT%202025/How_I_Parsed_your_JSON/README.md)
