@@ -22,4 +22,7 @@
 拿到 Base64 編碼，立刻丟進 Cyberchef 中轉，然後就得到最終的 Flag `CIT{5d81f7743f4bc2ab}`。
 
 ---
+
 ### Referenece
+
+* [Chrome Extension: dotGit](https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel?hl=zh-TW&utm_source=ext_sidebar)
