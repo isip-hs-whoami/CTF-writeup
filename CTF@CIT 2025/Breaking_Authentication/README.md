@@ -1,5 +1,6 @@
 # CTF@CIT - 2025
-###### Contributed by CXPh03n1x
+###### Contributed by @CXPhoenix
+###### credits to @scott987
 
 ## Breaking Authentication
 

@@ -1,5 +1,5 @@
 # CTF@CIT - 2025
-###### Contributed by CXPh03n1x
+###### Contributed by @CXPhoenix
 
 ## How I Parsed your JSON - 868 / Web
 
