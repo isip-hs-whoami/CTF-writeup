@@ -25,7 +25,7 @@ by A.Tao
 - 以「Designmuseum Danmark」為地點，詢問ChatGPT是什麼展覽。得到「椅子隧道」，展區共展示125張椅子。
 - 詢問ChatGPT該展覽是何時開始開放參觀。得到「2024/6/7、2024/6/14、2024/6/19」三種答案。
 - 將「Designmuseum Danmark」、「2024/6/7、2024/6/14、2024/6/19」及「125」組合成flag，皆不接受。
-- 賽方的Discord上說名稱要用官網上的名稱「Design Museum Demark」，地名要用英文名稱「Demark」。
+- 賽方的Discord上說名稱要用官網上的名稱「[Design Museum Damark](https://designmuseum.dk/en/)」，地名要用英文名稱「Demark」。
 - 再次組合各種可能的flag，最終flag如下。
 - Flag: B4BY{Designmuseum-Denmark_June-7th-2024_125}
 
