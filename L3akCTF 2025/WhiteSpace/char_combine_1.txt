@@ -1,0 +1,343 @@
+____ 1
+3L
+EL
+L3
+LE
+____ 1
+2p
+2q
+5p
+5q
+AB
+AD
+AK
+AR
+BA
+DA
+KA
+RA
+p2
+p5
+q2
+q5
+____ 1
+j{
+j}
+{j
+}j
+____ 12
+as
+ax
+az
+sa
+su
+us
+ux
+uz
+xa
+xu
+za
+zu
+____ 8
+.I
+.Z
+7_
+I.
+T_
+Z.
+_7
+_T
+____ 16
+4p
+4q
+Ah
+Bm
+Dm
+Km
+Mn
+Rm
+hA
+mB
+mD
+mK
+mR
+nM
+p4
+q4
+____ 1
+tt
+____ 4
+3r
+Er
+r3
+rE
+____ 2
+_n
+n_
+____ 2
+4m
+m4
+____ 4
+=h
+ct
+h=
+tc
+____ 4
+1h
+Ur
+h1
+rU
+____ 4
+cy
+gn
+ng
+yc
+____ 4
+4_
+_4
+____ 4
+1:
+:1
+_t
+t_
+____ 2
+1f
+f1
+____ 6
+rs
+rx
+rz
+sr
+xr
+zr
+____ 8
+.I
+.Z
+7_
+I.
+T_
+Z.
+_7
+_T
+____ 8
+ab
+ad
+ba
+bu
+da
+du
+ub
+ud
+____ 8
+.I
+.Z
+7_
+I.
+T_
+Z.
+_7
+_T
+____ 2
+ht
+th
+____ 64
+!W
+$(
+$)
+$/
+$<
+$>
+$\
+$|
+($
+(H
+)$
+)H
+/$
+/H
+2s
+2x
+2z
+3n
+5s
+5x
+5z
+<$
+<H
+>$
+>H
+En
+H(
+H)
+H/
+H<
+H>
+H\
+H|
+Mj
+O{
+O}
+Q{
+Q}
+W!
+\$
+\H
+jM
+n3
+nE
+s2
+s5
+x2
+x5
+z2
+z5
+{O
+{Q
+|$
+|H
+}O
+}Q
+____ 2
+_y
+y_
+____ 6
+0a
+0u
+6c
+a0
+c6
+u0
+____ 2
+_n
+n_
+____ 12
+2I
+2Z
+33
+3E
+5I
+5Z
+E3
+EE
+I2
+I5
+Z2
+Z5
+____ 10
+Ls
+Lx
+Lz
+_b
+_d
+b_
+d_
+sL
+xL
+zL
+____ 2
+4_
+_4
+____ 22
+$Y
+2t
+3h
+4X
+5t
+BP
+DP
+Eh
+HY
+KP
+PB
+PD
+PK
+PR
+RP
+X4
+Y$
+YH
+h3
+hE
+t2
+t5
+____ 6
+ar
+cv
+ra
+ru
+ur
+vc
+____ 6
+1s
+1x
+1z
+s1
+x1
+z1
+____ 2
+1t
+t1
+____ 2
+_c
+c_
+____ 4
+#Y
+0t
+Y#
+t0
+____ 2
+_n
+n_
+____ 2
+4r
+r4
+____ 2
+0r
+r0
+____ 2
+_w
+w_
+____ 2
+1t
+t1
+____ 10
+Ls
+Lx
+Lz
+_b
+_d
+b_
+d_
+sL
+xL
+zL
+____ 14
+0w
+6e
+6o
+8a
+8u
+OW
+QW
+WO
+WQ
+a8
+e6
+o6
+u8
+w0
+____ 1
++X
+Gv
+X+
+fs
+fx
+fz
+n{
+n}
+sf
+vG
+xf
+zf
+{n
+}n

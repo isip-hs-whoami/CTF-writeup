@@ -98,3 +98,4 @@ order = [11,12,10,14,16,15]
 ![order 6](https://raw.githubusercontent.com/isip-hs-whoami/CTF-writeup/refs/heads/main/N0PSctf%202025/A515/order6.png)
 
 最後得到flag:`N0PS{1M4G3_R3C0NSTRUC7I0N}`
+
