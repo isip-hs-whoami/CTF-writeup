@@ -15,7 +15,7 @@ What's the name of this CTF? Yk what to do 😉
 
 ### Solution
 
-此題目很有趣，提供了原始碼，然後你就會看到他的 flag 放在 `id=2` 的 posts 陣列中。
+此題目很有趣，提供了原始碼，然後你就會看到他的 flag 放在 `id=3` 的 posts 陣列中。
 
 ```js
 const posts = [
